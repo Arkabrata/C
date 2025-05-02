@@ -1,0 +1,14 @@
+//create variable
+#include <stdio.h>
+
+int main() {
+    int my_num = 15;
+    float my_float = 5.77;
+    char my_char = 'A';  // only one character allowed in single quotes
+
+    printf("%d\n", my_num);     // Correct format for int
+    printf("%f\n", my_float);   // Correct format for float
+    printf("%c\n", my_char);    // Correct format for char
+
+    return 0;
+}
