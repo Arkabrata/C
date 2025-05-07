@@ -1,0 +1,22 @@
+#include <stdio.h>
+int main()
+{
+    int my_number= 15;
+    int my_other_number =10;
+    my_number = my_number+my_other_number;
+    printf("%d",my_number);
+    return 0;
+}
+
+// My number is changed here 
+
+#include <stdio.h>
+int main()
+{
+    int x=5, y=4;
+    float Z= 1.234;
+    float sum= x+y+Z;
+
+    printf("%f",sum);
+    return 0;
+}

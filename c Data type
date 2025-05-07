@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+    char a=70, b= 30 ,c=40;
+printf("%c\n",a);
+printf("%c\n",b);
+printf("%c\n",c);
+return 0;
+}
